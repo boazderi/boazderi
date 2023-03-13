@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boazderi&label=Profile%20views&color=0e75b6&style=flat" alt="boazderi" /> </p>
 
-- 🔭 I’m currently working on **Angular B-Wallet (bitcoin wallet) and React project.**
+- 🔭 I’m currently working on **web projects**
 
-- 🌱 I’m currently learning **Angular, React**
+- 🌱 I’m currently learning **new Udemi course**
 
 - 👨‍💻 All of my projects are available at [https://github.com/boazderi?tab=repositories](https://github.com/boazderi?tab=repositories)
 
