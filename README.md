@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/boazderi?tab=repositories](https://github.com/boazderi?tab=repositories)
+- 👨‍💻 All of my projects are available [here](https://github.com/boazderi?tab=repositories)
 
 - 💬 Ask me about **JS, React, Vue, SASS, Node.js**
 
