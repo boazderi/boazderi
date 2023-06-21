@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **boazderi@gmail.com**
 
-- ⚡ Fun fact: **My hobbies include playing guitar, creating music, and doing shows every weekend! I'm also solve Hungarian cube in 40 sec (:**
+- ⚡ Fun fact about me: **My hobbies include playing chess, playing guitar, creating music, and doing shows every weekend! I'm also solve Hungarian cube in 40 sec (:**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
