@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **web projects**
 
-- 🌱 I’m currently learning **new Udemi course**
+- 🌱 I’m currently learning **SQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/boazderi?tab=repositories](https://github.com/boazderi?tab=repositories)
 
-- 💬 Ask me about **JS, Vue, SASS, Node.js**
+- 💬 Ask me about **JS, React, Vue, SASS, Node.js**
 
 - 📫 How to reach me **boazderi@gmail.com**
 
